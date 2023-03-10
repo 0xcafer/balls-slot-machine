@@ -1,6 +1,6 @@
 # Purpose
 
-A slot machine for fun - made with #sveltekit
+A slot machine for fun - made with #sveltekit #sveltekit-slot-machine
 
 ## For run
 yarn && yarn dev
