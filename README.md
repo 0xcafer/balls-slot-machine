@@ -1,4 +1,4 @@
-# Project Title
+# Purpose
 
 A slot machine for fun
 
